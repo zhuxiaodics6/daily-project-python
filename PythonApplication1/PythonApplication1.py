@@ -1,1 +1,5 @@
-
+name = input("df")
+age = input("dq")
+print("sdf")
+print("sdw",name)
+print("aqw",age)
